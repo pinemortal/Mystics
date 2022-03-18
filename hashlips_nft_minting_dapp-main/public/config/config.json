@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCfa58871A685a6D839B17B816B8Ab8C90cd0C125",
+  "SCAN_LINK": "https://polygonscan.com/address/0xCfa58871A685a6D839B17B816B8Ab8C90cd0C125",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mystic Mushroom",
+  "SYMBOL": "MM",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mystic-mushrooms-byliware",
+  "SHOW_BACKGROUND": true
+}
